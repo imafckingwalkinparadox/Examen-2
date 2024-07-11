@@ -1,0 +1,10 @@
+footer{
+    margin: auto;
+    width: 37.5rem;
+    border: 3px solid black;
+    padding: 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
